@@ -1,6 +1,10 @@
 # To Do
 This web application is a simple application to manage a list of things to do.
 
+# Screenshot
+[![screenshot](todo.gif)](sample)
+
+
 ## Infrastructure
 
 This applications consists of two parts:
